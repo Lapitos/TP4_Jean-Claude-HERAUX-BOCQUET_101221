@@ -7,6 +7,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.ombre
+{
+   box-shadow: 1px 1px 2px #555;
+   background-color: #F3976C;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -647,7 +653,12 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: rgb(44, 42, 42)!important;
+}
+
+p
+{
+    padding-top: 10px;
 }
 
 .container {
@@ -673,7 +684,8 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
+    font-weight: bolder;
 }
 
 .tight-width-whitespace {
@@ -741,6 +753,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width:100%;
 }
 
 .portfolio-row {
