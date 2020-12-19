@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /css/
+Disallow: /font/
+Disallow: /icon/
+Disallow: /js/
+Disallow: /includes/
+Sitemap: https://lapitos.github.io/TP4_Jean-Claude-HERAUX-BOCQUET_101221/sitemap.xml
