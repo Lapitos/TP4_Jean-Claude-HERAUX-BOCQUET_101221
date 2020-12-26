@@ -1,11 +1,14 @@
 {
-  "name": "La Chouette Agence",
-  "short_name": "La Chouette Agence",
-  "theme_color": "#fefefe",
-  "background_color": "#f3976c",
-  "display": "fullscreen",
-  "Scope": "https://lapitos.github.io/TP4_Jean-Claude-HERAUX-BOCQUET_101221/contact.html",
-  "start_url": "https://lapitos.github.io/TP4_Jean-Claude-HERAUX-BOCQUET_101221/",
+    "name": "La Chouette Agence",
+    "short_name": "Chouette Agence",
+    "background_color": "white",
+    "description": "La Chouette Agence est une agence de web design
+qui aide les entreprises à devenir attractives et visibles sur internet. ",
+    "orientation": "portrait-primary",
+    "scope": "/lachouetteagence.com/",
+    "start_url": "https://lachouetteagence.com/",
+    "display": "standalone",
+    "theme_color": "white",
   "icons": [
     {
       "src": "icon/icon-16x16.png",
